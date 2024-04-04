@@ -1,8 +1,8 @@
 ## Step 1. Defining the Purpose of the Bot
 
- -  Save audio messages from the chat window to database (DBMS or hard drive) by user’s character id of the account the message is associated with
- - Convert all audio messages in .wav format with 16khz frequency
- - Save only those sent picture images that contain face. 
+- Save audio messages from the chat window to database (DBMS or hard drive) by user’s character id of the account the message is associated with
+- Convert all audio messages in .wav format with 16khz frequency
+- Save only those sent picture images that contain face. 
 
 ## Step 2. Identify the Type of Bot
 
