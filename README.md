@@ -8,7 +8,7 @@
 
 There are three types of bots: rule-based, AI powered using ML algorithms and hybrid. Hybrid chatbots combine the best of both worlds. It will use predefined rules for storing and converting audio messages and machine learning for identifying face on the photo.
 
-## Step 3. Select a channel through which  the Bot will communicate
+## Step 3. Select a Channel Through Which  the Bot Will Communicate
 
 WhatsApp will be selected as the channel. Other option included Telegram
 
@@ -24,7 +24,7 @@ WhatsApp will be selected as the channel. Other option included Telegram
 
 - **PyTorch** offers pre-trained models for various computer vision tasks, including face detection. One popular face detection model in PyTorch is the SSD (Single Shot MultiBox Detector) model.
 
-## Step 5. Design and test the Bot
+## Step 5. Design and Test the Bot
 
 #### Run virtual environment
 
