@@ -1,0 +1,7 @@
+tunnels:
+  app1:
+    proto: http
+    addr: 5000
+  app2:
+    proto: http
+    addr: 8000
